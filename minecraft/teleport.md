@@ -15,7 +15,6 @@ Expected to be using Xaero map and minmap (links later)
 4. Click on use default: On (will change to Off)
 
 5. update the command to change **@s** to your username (example below)
-
 ![update teleport command](./gifs/updating_teleport_command.gif)
 
 6. close options
